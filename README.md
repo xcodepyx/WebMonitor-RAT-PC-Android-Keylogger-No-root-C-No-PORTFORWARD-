@@ -39,7 +39,7 @@ anywhere, even while on 3G, 4G or WiFI anywhere you are.
 
 View features (70+ features - By far more features than any other tool)
 
-![1](https://github.com/user-attachments/assets/cd868965-2e1a-42a5-8114-cbd06bf2a354)
+![1](https://github.com/user-attachments/assets/4e7109f2-2af1-4294-ad23-f6fdd2fa871c)
 ![2](https://github.com/user-attachments/assets/878696b0-5b55-4fa1-9c4d-c8c8a734496a)
 ![3](https://github.com/user-attachments/assets/c5fb74fd-9122-489d-920c-247ecbeb9f0a)
   
